@@ -1,0 +1,65 @@
+.black-box {
+  border-style: solid;
+  border-color: black;
+  color: red;
+  background-color: black;
+}
+
+.gold-box {
+border-style: solid;
+border-color: gold;
+color: green;
+background-color: gold;
+}
+
+.row {
+display: inline;
+}
+
+.Black-copy-bar {
+Border-style: solid;
+border-color: black;
+color: white;
+background-color: black;
+}
+
+.center-text {
+text-align: center;
+}
+
+.left-side-text {
+text-align: left;
+}
+
+.right-side-text {
+text-align: right;
+}
+
+.gold-circle {
+border-radius: 50px;
+border-style: dotted red;
+background-color: gold;
+color: red;
+}
+
+.thick-green-border {
+border-color: green;
+border-radius: 10px;
+border-style: solid;
+}
+
+.red-text{
+color: red;
+}
+
+.responsive {
+max-width: 100%;
+height: auto;
+}
+
+.purple-box {
+border-color: red;
+border-style: dotted;
+background-color: purple;
+color: white;
+}
